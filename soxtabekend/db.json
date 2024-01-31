@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "ravshan"
+    },
+    {
+      "id": 2,
+      "name": "aziz"
+    },
+    {
+      "id": 3,
+      "name": "bekzod"
+    },
+    {
+      "id": 4,
+      "name": "asilbek"
+    },
+    {
+      "id": 5,
+      "name": "nozim"
+    },
+    {
+      "name": "salom",
+      "id": 6
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "name": "qahramonov"
+    },
+    {
+      "id": 2,
+      "name": "azizov"
+    },
+    {
+      "id": 3,
+      "name": "bekzodov"
+    },
+    {
+      "id": 4,
+      "name": "asilbekov"
+    },
+    {
+      "id": 5,
+      "name": "nozimov"
+    }
+  ]
+}
