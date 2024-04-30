@@ -28,6 +28,7 @@ const apiMiddleware = (store) => (next) => (action) => {
           store.dispatch(action.payload.onSuccess());
         });
       } else {
+        // PUT
         const id = store.getState().todo.currentItem;
         const oneDoc = doc(refCollection, id);
         updateDoc(oneDoc, {
